@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title">Workout Warrior</string>
+    <string name="enterButton">Enter</string>
+    <string name="musclegroups">Muscle Groups</string>
+    <string name="chest">Chest</string>
+    <string name="back">Back</string>
+    <string name="arms">Arms</string>
+    <string name="core">Core</string>
+    <string name="legs">Legs</string>
+    <string name="cardio">Cardio</string>
+    <string name="musclegroup">Muscles</string>
+    <string name="exercises">Exercises</string>
+    <string name="history">History</string>
+    <string name="more">More</string>
+    <string name="chestExercises">Chest Exercises</string>
+    <string name="barbellBenchPress">Barbell Bench Press</string>
+    <string name="machineChestFlye">Machine Chest Flye</string>
+    <string name="pushup">Pushup</string>
+    <string name="backExercises">Back Exercises</string>
+    <string name="cableSeatedLowRow">Cable Seated Low Row</string>
+    <string name="latPulldown">Lat Pulldown</string>
+    <string name="oneArmRow">One-Arm Row</string>
+    <string name="seatedReverseFly">Seated Reverse Fly</string>
+    <string name="armsExercises">Arm Exercises</string>
+    <string name="cableShrug">Cable Shrug</string>
+    <string name="dumbbellCurl">Dumbbell Curl</string>
+    <string name="hammerCurl">Hammer Curl</string>
+    <string name="dip">Dip</string>
+    <string name="dragCurl">Drag Curl</string>
+    <string name="inputWeight">Weight/lbs: </string>
+    <string name="submitInfo">Submit</string>
+    <string name="selectRest">Select Rest Period</string>
+    <string name="restThirty">Rest 30 Seconds</string>
+    <string name="restSixty">Rest 60 Seconds</string>
+    <string name="restNinety">Rest 90 Seconds</string>
+    <string name="restOneTwenty">Rest 120 Seconds</string>
+    <string name="inputReps">Repetitions: </string>
+    <string name="declineBarbellBenchPress">Decline Barbell Bench Press</string>
+    <string name="dumbbellFlye">Dumbbell Flye</string>
+    <string name="inclineBarbellBenchPress">Incline Barbell Bench Press</string>
+    <string name="coreExercises">Core Exercises</string>
+    <string name="legExercises">Leg Exercises</string>
+    <string name="cardioExercises">Cardio Exercises</string>
+    <string name="cycling">Cycling</string>
+    <string name="jogging">Jogging</string>
+    <string name="jumpRope">Jump Rope</string>
+    <string name="swimming">Swimming</string>
+    <string name="elliptical">Elliptical</string>
+    <string name="abCrunchMachine">Ab Crunch Machine</string>
+    <string name="barbellRollout">Barbell Rollout</string>
+    <string name="bicycleKick">Bicycle Kick</string>
+    <string name="burpees">Burpees</string>
+    <string name="jackKnife">Jack Knife</string>
+    <string name="barbellLunge">Barbell Lunge</string>
+    <string name="boxJump">Box Jump</string>
+    <string name="legPress">Leg Press</string>
+    <string name="frontSquat">Front Squat</string>
+    <string name="deadlift">Deadlift</string>
+    <string name="calfRaise">Calf Raise</string>
+    <string-array name="muscleoptions">
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Arms</item>
+        <item>Core</item>
+        <item>Legs</item>
+        <item>Cardio</item>
+    </string-array>
+
+
+</resources>

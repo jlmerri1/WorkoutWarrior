@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hfad.com.workoutwarrior">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".LandingPage"
+            android:screenOrientation="nosensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MuscleGroup"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".chest"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".back"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".barbellBenchPress"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".arms"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".core"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".legs"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".cardio"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".history"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name=".exercises"
+            android:screenOrientation="nosensor" />
+        <activity android:name=".exercise_list" />
+        <activity android:name=".ExerciseDetailActivity" />
+        <activity android:name=".machineChestFlye" />
+        <activity android:name=".pushup" />
+        <activity android:name=".declineBenchPress" />
+        <activity android:name=".dumbbellFlye"></activity>
+        <activity android:name=".inclineBarbellBenchPress"></activity>
+    </application>
+
+</manifest>
